@@ -1,0 +1,108 @@
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  /*line-height: 2.07em;*/
+  font-size: 32px;
+  text-transform: none;
+  color: white;
+  margin-top: 0.7em;
+  background-color: black;
+  text-align: center;
+  width: 100%;
+}
+
+#logo_img {
+  height: 50%;
+  width: 50%;
+}
+
+#countdown {
+  text-align: center;
+  font-size: 52px;
+}
+
+.btn-primary,
+.btn-primary:visited {
+  background-color: black;
+  border-color: white;
+}
+
+.btn-close {
+  background-color: white;
+  border-color: white;
+  color: white;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary:active:focus {
+  background-color: black;
+  border-color: white;
+}
+
+#site_body {
+  width: 95%;
+  margin: 0 auto;
+  background-color: black;
+}
+
+#login_table {
+  background-color: black;
+  color: white;
+}
+
+#wallet_table {
+  background-color: black;
+  color: white;
+}
+
+#transfer_table {
+  background-color: black;
+  color: white;
+}
+
+.modal-body {
+  background-color: black;
+  font-size: 18px;
+}
+
+.modal-header {
+  background-color: black;
+  color: white;
+}
+
+.modal-footer {
+  background-color: black;
+  color: white;
+}
+
+.modal-content {
+  border-color: white;
+}
+
+th {
+  color: white;
+}
+
+td {
+  color: white;
+}
+
+div.page-foot-right {
+  float: right;
+  width: 40%;
+  text-align: right;
+  vertical-align: top;
+  font-size: 18px;
+}
+
+span.page-foot-text {
+  vertical-align: top;
+}
+
+p#home_text {
+  text-align: left;
+  font-size: 18px;
+}
